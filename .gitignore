@@ -1,0 +1,7 @@
+#Git ignore
+
+*.sublime-project
+*.sublime-workspace
+node_modules
+*.log
+keys.*
